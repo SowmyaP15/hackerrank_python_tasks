@@ -1,6 +1,6 @@
-Multiset Implementation:
+# Multiset Implementation: multiset.py
 
-python3 program from python multiset implementation
+# python3 program from python multiset implementation
 
 given a template for the multisite class, implement 4 methods: 
 1) add(self , val) : adds value to the multisite
@@ -16,7 +16,7 @@ constraints:
 1) 1 <= number of operations in one test file <= 10 power 5
 2) if val is parameter of operation then val is an integer and 1 <= val <=10 power 9
 
-Vending Machine Program:
+# Vending Machine Program: vendingmachine.py
 
 Python3 program from vending machine :
 implement class : vending machine according to the following requirements:
