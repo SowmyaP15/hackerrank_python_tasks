@@ -1,6 +1,6 @@
 # Multiset Implementation: multiset.py
 
-# python3 program from python multiset implementation
+# Python3 program from python multiset implementation
 
 given a template for the multisite class, implement 4 methods: 
 1) add(self , val) : adds value to the multisite
