@@ -1,6 +1,6 @@
-# Multiset Implementation: multiset.py
 
-# Python3 program from python multiset implementation
+# Python 3 Hacker Rank Tasks
+# Multiset Implementation: multiset.py
 
 given a template for the multisite class, implement 4 methods: 
 1) add(self , val) : adds value to the multisite
@@ -18,7 +18,6 @@ constraints:
 
 # Vending Machine Program: vendingmachine.py
 
-Python3 program from vending machine :
 implement class : vending machine according to the following requirements:
 1) can be instantiated using the constructor vending machine(num_items,item_price)
 where num_items denotes the number of items in the machine and item_price denotes the required number of coins to buy a single item
